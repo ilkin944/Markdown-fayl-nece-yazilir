@@ -131,3 +131,31 @@ git push -u origin master
 2. CSS
 3. JS
 ```
+
+#### Siyahı bəndləri üçün isə bir tab qədər məsafə qoyub yaza bilərsiniz
+1. HTML
+2. CSS
+    - Flex
+3. JS
+    - Events
+    - DOM
+    - Framework
+        - JQuery
+    - Library
+        - React
+        - Angular
+        - Vue
+```
+1. HTML
+2. CSS
+    - Flex
+3. JS
+    - Events
+    - DOM
+    - Framework
+        - JQuery
+    - Library
+        - React
+        - Angular
+        - Vue
+```

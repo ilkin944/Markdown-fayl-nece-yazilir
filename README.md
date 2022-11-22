@@ -7,27 +7,27 @@
 Başlıq yaratmaq üçün #başlıq mətnindən əvvəl heş (dies və ya türmə :D) simvol əlavə edin. İstifadə etdiyiniz nömrə #başlığın ölçüsünü müəyyən edəcək.
 
 Məsələn:
-# başlıq ən böyükdür və tək diesdən istifadə edə bilərsiniz
+# Ən böyük başlıq və tək diesdən istifadə edə bilərsiniz
 ```
 # Başlıqlar
 ```
-## ikinci böyük başlıqdır və iki diesdən istifadə edə bilərsiniz
+## İkinci böyük başlıqdır və iki diesdən istifadə edə bilərsiniz
 ```
 ## Başlıqlar
 ```
-### üçüncü başlıqdır və üç diesdən istifadə edə bilərsiniz
+### Üçüncü başlıqdır və üç diesdən istifadə edə bilərsiniz
 ```
 ### Başlıqlar
 ```
-#### dördüncü başlıqdır və dörd diesdən istifadə edə bilərsiniz
+#### Dördüncü başlıqdır və dörd diesdən istifadə edə bilərsiniz
 ```
 #### Başlıqlar
 ```
-##### beşinci başlıqdır və beş diesdən istifadə edə bilərsiniz
+##### Beşinci başlıqdır və beş diesdən istifadə edə bilərsiniz
 ```
 ##### Başlıqlar
 ```
-###### altıncı başlıqdır və altı diesdən istifadə edə bilərsiniz
+###### Altıncı başlıqdır və altı diesdən istifadə edə bilərsiniz
 ```
 ###### Başlıqlar
 ```

@@ -12,13 +12,13 @@ Məsələn:
 ###### altıncı başlıqdır və altı diesdən istifadə edə bilərsiniz
 
 
-**Qalın mətnlər yazmaq üçün, mətnimizin əvvəlinə və sonuna 2 ədəd ulduz simvolu (və ya 2 ədəd altdan xətt simvolu) əlavə edirik**
-*İtalik mətnlər yazmaq üçün, mətnimizin əvvəlinə və sonuna 1 ədəd ulduz simvolu (və ya 1 ədəd altdan xətt simvolu)  əlavə edirik*
-~~Mətnlərimizin ortasında xətt çəkilməsi üçün mətnin əvvəlinə və sonuna 2 ədəd dalğalı defis əlavə edirik~~
-**Bu mətn həm qalın _həmdə  italikdir (əvvəlində və sonunda altdan xətt)_**
-***Bu mətnin hər bir simvolu isə həm qalın həm də italikdir ( bunun üçün cümləmin hər iki tərəfinə 3 ulduz əlavə etməliyəm)***
-<sub>bu alt yazıdır (alt yazı yazmaq üçün htmldəki sub teqindən istifadə etmək lazımdır)</sub>
-<sup>bu üst yazıdır (üst yazı yazmaq üçün htmldəki sup teqindən istifadə etmək lazımdır)</sup>
+-**Qalın mətnlər yazmaq üçün, mətnimizin əvvəlinə və sonuna 2 ədəd ulduz simvolu (və ya 2 ədəd altdan xətt simvolu) əlavə edirik**
+-*İtalik mətnlər yazmaq üçün, mətnimizin əvvəlinə və sonuna 1 ədəd ulduz simvolu (və ya 1 ədəd altdan xətt simvolu)  əlavə edirik*
+-~~Mətnlərimizin ortasında xətt çəkilməsi üçün mətnin əvvəlinə və sonuna 2 ədəd dalğalı defis əlavə edirik~~
+-**Bu mətn həm qalın _həmdə  italikdir (əvvəlində və sonunda altdan xətt)_**
+-***Bu mətnin hər bir simvolu isə həm qalın həm də italikdir ( bunun üçün cümləmin hər iki tərəfinə 3 ulduz əlavə etməliyəm)***
+-<sub>bu alt yazıdır (alt yazı yazmaq üçün htmldəki sub teqindən istifadə etmək lazımdır)</sub>
+-<sup>bu üst yazıdır (üst yazı yazmaq üçün htmldəki sup teqindən istifadə etmək lazımdır)</sup>
 
 
 > Burada sitat gətirdik (Sitat üçün > işarəsindən istifadə etmək lazımdır)
@@ -36,4 +36,4 @@ git push -u origin master
 
 #### Əgər README-ə hər hansısa link [daxil etmək](https://www.instagram.com/rgacademy_org) istəyirsinizsə link sözümüzü kvadrat mötərizə daxilində, gedəcəyimiz ünvanı isə normal mötərizə daxilində edə bilərik
 
-#### Hər hansı faylı referans olaraq bildirmək istəyirsinizsə
+#### Hər hansı faylı referans olaraq bildirmək istəyirsinizsə kvadrat mötərizə daxilində sözü, normal mötərizələrdə isə faylın ünvanını bildirə bilərsiniz. 

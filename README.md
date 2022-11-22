@@ -37,3 +37,6 @@ git push -u origin master
 #### Əgər README-ə hər hansısa link [daxil etmək](https://www.instagram.com/rgacademy_org) istəyirsinizsə link sözümüzü kvadrat mötərizə daxilində, gedəcəyimiz ünvanı isə normal mötərizə daxilində edə bilərik
 
 #### Hər hansı faylı referans olaraq bildirmək istəyirsinizsə kvadrat mötərizə daxilində sözü, normal mötərizələrdə isə faylın ünvanını bildirə bilərsiniz. Məsələn [bu yazının istinad mənbəsi](/MENBE.md)
+
+#### README-ə şəkil əlavə etmək üçün link əlavə etmə üsulunun əvvəlinə ! simvolu daxil etmək lazımdır ![](). Məsələn:
+![RG Academy Logo](./img/RG%20Agency%20Logo%20v2022.png)  

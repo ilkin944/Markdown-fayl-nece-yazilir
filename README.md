@@ -1,6 +1,6 @@
 # Markdown faylı necə yaradılmalıdır? Markodown faylında hansı yazılış üsulları var?
 
-# Başlıqlar
+# Mətnlər
 ```
 # Başlıqlar
 ```
@@ -79,12 +79,18 @@ git commit -m "Kommitiniz"
 git remote add origin "url"
 git push -u origin master
 ```
+
+# Rənglər
 #### sözlərə arxa fon rəngi verə bilmək üçün isə rəng kodlarımızı (hex, rgb və hsl) əyri dırnaq içərisində yaza bilərik`#0969DA`
+
+# Linklər
 
 #### Əgər README-ə hər hansısa link [daxil etmək](https://www.instagram.com/rgacademy_org) istəyirsinizsə link sözümüzü kvadrat mötərizə daxilində, gedəcəyimiz ünvanı isə normal mötərizə daxilində edə bilərik
 
 #### Hər hansı faylı referans olaraq bildirmək istəyirsinizsə kvadrat mötərizə daxilində sözü, normal mötərizələrdə isə faylın ünvanını bildirə bilərsiniz. Məsələn [bu yazının istinad mənbəsi](/MENBE.md)
 
+
+# Şəkillər
 #### README-ə şəkil əlavə etmək üçün link əlavə etmə üsulunun əvvəlinə ! simvolu daxil etmək lazımdır ![](). Məsələn:
 ![RG Academy Logo](./img/RG%20Agency%20Logo%20v2022.png)  
 
@@ -103,8 +109,8 @@ git push -u origin master
 </picture>
 
 
-### Siyahılar
-#### -Sayıla bilinməyən siyahılar (ul və li) yaratmaq üçün -,+,* simvollarından istifadə edə bilərsiniz .
+# Siyahılar
+#### Sayıla bilinməyən siyahılar (ul və li) yaratmaq üçün -,+,* simvollarından istifadə edə bilərsiniz .
 
 - HTML
 * CSS
@@ -115,7 +121,7 @@ git push -u origin master
 + JS
 ```
 
-#### -Sayıla bilinən siyahılar (ol və li) yaratmaq üçün rəqəmlərdən istifadə edə bilərsiniz .
+#### Sayıla bilinən siyahılar (ol və li) yaratmaq üçün rəqəmlərdən istifadə edə bilərsiniz .
 
 1. HTML
 2. CSS

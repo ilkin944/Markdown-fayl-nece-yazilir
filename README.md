@@ -1,24 +1,71 @@
 # Markdown faylı necə yaradılmalıdır? Markodown faylında hansı yazılış üsulları var?
 
 # Başlıqlar
+```
+# Başlıqlar
+```
 Başlıq yaratmaq üçün #başlıq mətnindən əvvəl heş (dies və ya türmə :D) simvol əlavə edin. İstifadə etdiyiniz nömrə #başlığın ölçüsünü müəyyən edəcək.
 
 Məsələn:
 # başlıq ən böyükdür və tək diesdən istifadə edə bilərsiniz
+```
+# Başlıqlar
+```
 ## ikinci böyük başlıqdır və iki diesdən istifadə edə bilərsiniz
+```
+## Başlıqlar
+```
 ### üçüncü başlıqdır və üç diesdən istifadə edə bilərsiniz
+```
+### Başlıqlar
+```
 #### dördüncü başlıqdır və dörd diesdən istifadə edə bilərsiniz
+```
+#### Başlıqlar
+```
 ##### beşinci başlıqdır və beş diesdən istifadə edə bilərsiniz
+```
+##### Başlıqlar
+```
 ###### altıncı başlıqdır və altı diesdən istifadə edə bilərsiniz
+```
+###### Başlıqlar
+```
 
 
 - **Qalın mətnlər yazmaq üçün, mətnimizin əvvəlinə və sonuna 2 ədəd ulduz simvolu (və ya 2 ədəd altdan xətt simvolu) əlavə edirik**
+```
+**Qalın mətn**
+```
 - *İtalik mətnlər yazmaq üçün, mətnimizin əvvəlinə və sonuna 1 ədəd ulduz simvolu (və ya 1 ədəd altdan xətt simvolu)  əlavə edirik*
+```
+*İtalik mətn*
+```
 - ~~Mətnlərimizin ortasında xətt çəkilməsi üçün mətnin əvvəlinə və sonuna 2 ədəd dalğalı defis əlavə edirik~~
+```
+~~Ortadan xətt~~
+```
+
 - **Bu mətn həm qalın _həmdə  italikdir (əvvəlində və sonunda altdan xətt)_**
+```
+- **Bu mətn həm qalın _həmdə  italikdir (əvvəlində və sonunda altdan xətt)_**
+```
+
 - ***Bu mətnin hər bir simvolu isə həm qalın həm də italikdir ( bunun üçün cümləmin hər iki tərəfinə 3 ulduz əlavə etməliyəm)***
+```
+***Bu mətnin hər bir simvolu isə həm qalın həm də italikdir ( bunun üçün cümləmin hər iki tərəfinə 3 ulduz əlavə etməliyəm)***
+```
+
 - <sub>bu alt yazıdır (alt yazı yazmaq üçün htmldəki sub teqindən istifadə etmək lazımdır)</sub>
+```
+<sub>bu alt yazıdır (alt yazı yazmaq üçün htmldəki sub teqindən istifadə etmək lazımdır)</sub>
+```
+
+
 - <sup>bu üst yazıdır (üst yazı yazmaq üçün htmldəki sup teqindən istifadə etmək lazımdır)</sup>
+```
+<sup>bu üst yazıdır (üst yazı yazmaq üçün htmldəki sup teqindən istifadə etmək lazımdır)</sup>
+```
 
 
 > Burada sitat gətirdik (Sitat üçün > işarəsindən istifadə etmək lazımdır)

@@ -101,3 +101,27 @@ git push -u origin master
   <source media="(prefers-color-scheme: light)" srcset="/img/rg agency logo1.png">
   <img alt="RG Agency Logo." src="/img/RG Agency Logo v2022.png">
 </picture>
+
+
+### Siyahılar
+#### -Sayıla bilinməyən siyahılar (ul və li) yaratmaq üçün -,+,* simvollarından istifadə edə bilərsiniz .
+
+- HTML
+* CSS
++ JS
+```
+- HTML
+* CSS
++ JS
+```
+
+#### -Sayıla bilinən siyahılar (ol və li) yaratmaq üçün rəqəmlərdən istifadə edə bilərsiniz .
+
+1. HTML
+2. CSS
+3. JS
+```
+1. HTML
+2. CSS
+3. JS
+```

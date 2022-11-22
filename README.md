@@ -186,3 +186,34 @@ git push -u origin master
 # Emojilər
 
 #### Emojilər üçün [bu ünvana](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) keçid edə bilərsiniz
+
+# Haşiyələr
+Bu mötərizə sintaksisindən istifadə edərək məzmununuza qeydlər əlavə edə bilərsiniz:
+
+Budur sadə bir qeyd[^1].
+
+Haşiyədə bir neçə sətir də ola bilər[^2].
+
+Yazı üslubunuza daha yaxından uyğunlaşmaq üçün sözlərdən də istifadə edə bilərsiniz[^qeyd].
+
+[^1]: Mənim istinadım.
+[^2]: Hər yeni sətirə 2 boşluq qoyulmalıdır.
+   Bu, bir neçə sətirdən ibarət bir qeydə sahib olmağa imkan verir.
+[^qeyd]:
+     Adlı qeydlər hələ də mətn əvəzinə rəqəmlərlə göstəriləcək, lakin daha asan identifikasiya və əlaqələndirməyə imkan verir.
+     Bu qeyd də yeni sətirlər üçün 4 boşluqdan istifadə etməklə fərqli sintaksislə hazırlanmışdır.
+
+```
+Budur sadə bir qeyd[^1].
+
+Haşiyədə bir neçə sətir də ola bilər[^2].
+
+Yazı üslubunuza daha yaxından uyğunlaşmaq üçün sözlərdən də istifadə edə bilərsiniz[^qeyd].
+
+[^1]: Mənim istinadım.
+[^2]: Hər yeni sətirə 2 boşluq qoyulmalıdır.
+Bu, bir neçə sətirdən ibarət bir qeydə sahib olmağa imkan verir.
+[^qeyd]:
+    Adlı qeydlər hələ də mətn əvəzinə rəqəmlərlə göstəriləcək, lakin daha asan identifikasiya və əlaqələndirməyə imkan verir.
+    Bu qeyd də yeni sətirlər üçün 4 boşluqdan istifadə etməklə fərqli sintaksislə hazırlanmışdır.
+ ```

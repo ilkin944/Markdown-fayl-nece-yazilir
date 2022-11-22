@@ -181,3 +181,8 @@ git push -u origin master
 ```
 @github/support Azərbaycan dilində məqalənizi yeniləmək istərdiniz? 
 ```
+
+
+# Emojilər
+
+#### Emojilər üçün [bu ünvana](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) keçid edə bilərsiniz

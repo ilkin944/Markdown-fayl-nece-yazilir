@@ -40,3 +40,17 @@ git push -u origin master
 
 #### README-ə şəkil əlavə etmək üçün link əlavə etmə üsulunun əvvəlinə ! simvolu daxil etmək lazımdır ![](). Məsələn:
 ![RG Academy Logo](./img/RG%20Agency%20Logo%20v2022.png)  
+
+#### Həmçinin əlavə etdiyiniz şəklin light/dark moda əsasən dəyişməsini də təmin edə bilərsiniz. Bunun üçün HTML-dəki bu kodlardan istifadə etmək lazımdır:
+```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/img/RG Academy Logo arxa fonu rəngli 1x1.png">
+  <source media="(prefers-color-scheme: light)" srcset="/img/rg agency logo1.png">
+  <img alt="RG Agency Logo." src="/img/RG Agency Logo v2022.png">
+</picture>
+```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/img/RG Academy Logo arxa fonu rəngli 1x1.png">
+  <source media="(prefers-color-scheme: light)" srcset="/img/rg agency logo1.png">
+  <img alt="RG Agency Logo." src="/img/RG Agency Logo v2022.png">
+</picture>

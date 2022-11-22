@@ -159,3 +159,16 @@ git push -u origin master
         - Angular
         - Vue
 ```
+
+### Tapşırıq siyahıları
+#### Tapşırıqlar siyahısı yaratmaq üçün siyahı elementlərinə defis və boşluq və ardınca daxil olan ön söz yazın [ ]. Tapşırığı tamamlanmış kimi qeyd etmək üçün istifadə edin [x].
+
+- [x] #README əlavə edildi
+- [ ] Dəstək olundu
+- [ ] Repo-nu hər kəs ulduzladı :tada:
+
+```
+- [x] #README əlavə edildi
+- [ ] Dəstək olundu
+- [ ] Repo-nu hər kəs ulduzladı :tada:
+`
